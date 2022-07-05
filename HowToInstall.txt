@@ -1,0 +1,23 @@
+THIS IS COMPLETELY LEGAL!
+It is illegal to share source files for games online, but we are using a completely LEGAL  workaround. The only legal way to share mods is to use "patches",
+which are files that can be APPLIED to the original, unedited file that the user has legally obtained.
+One of the most popular apps used to apply these "patches" is called "flips", which you can download here:
+https://dl.smwcentral.net/11474/floating.zip
+
+Here's the steps to installing this mod:
+-Go to the Will You Snail page on steam
+-Click properties
+-Click "betas" and change the current beta to "sandbox".
+-Click update.
+-Go back to the properties menu. Click "Local Files".
+-Click "Browse". This should open the WYS source files in your file explorer.
+-Create a backup of "data.win"
+-Make sure you have FLIPS downloaded. (See above)
+-Open flips and click "apply patch".
+-Select the dropdown at the bottom right of your file explorer that currently says "supported ROMs". Change it to "all files".
+-Select the "data.bps" file from where you downloaded the mod
+-Press okay
+-Select the "data.win" file from the WYS source files
+-Press okay
+-You should get a message saying the patch was successfully applied.
+-Run Will You Snail
